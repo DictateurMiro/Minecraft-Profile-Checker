@@ -1,2 +1,3 @@
-# Minecraft-Profile-Checker
-made in python with requests no proxy no selenium
+### Minecraft Profile Checker
+
+<img src="https://i.imgur.com/JFxfEN0.png">
